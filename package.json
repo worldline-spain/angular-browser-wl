@@ -16,7 +16,8 @@
     "url": "https://github.com/worldline-spain/angular-browser-wl/issues"
   },
   "dependencies": {
-    "@angular/animations":"4.4.4"
+    "@angular/core": "4.4.4",
+    "tslib": "^1.7.1"
   },
   "homepage": "https://github.com/worldline-spain/angular-browser-wl#readme"
 }
