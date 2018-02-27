@@ -1,0 +1,19 @@
+{
+  "name": "angular-browser-wl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/worldline-spain/angular-browser-wl.git"
+  },
+  "author": "Killian Perea Ruiz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/worldline-spain/angular-browser-wl/issues"
+  },
+  "homepage": "https://github.com/worldline-spain/angular-browser-wl#readme"
+}
