@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/worldline-spain/angular-browser-wl/issues"
   },
+  "dependencies": {
+    "@angular/animations":"4.4.4"
+  },
   "homepage": "https://github.com/worldline-spain/angular-browser-wl#readme"
 }
